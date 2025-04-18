@@ -1,2 +1,2 @@
 # kingsvault.github.io
-Kings Vault
+KINGS VAULT
