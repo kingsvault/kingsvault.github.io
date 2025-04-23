@@ -1,1 +1,0 @@
-const t=()=>({target:"_blank",rel:"noreferrer noopener"}),s="info@kingsvault.io",o="https://t.me/?",a="https://x.com/kingsvault_io",n="https://www.instagram.com/kingsvault.io/",r="https://discord.com/?";export{o as a,r as d,s as e,t as g,n as i,a as t};
